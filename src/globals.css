@@ -13,6 +13,19 @@
   color-scheme: dark;
 }
 
+
+
+/* logo */
+.logo {
+  border-radius: 50%;
+  width: 100px; /* Adjust as necessary */
+  height: 100px; /* Adjust as necessary */
+}
+
+
+
+
+
 .hash-span {
   margin-top: -100px;
   padding-bottom: 100px;
