@@ -125,55 +125,59 @@ const technologies: TTechnology[] = [
 
 const experiences: TExperience[] = [
   {
-    title: "React.js Developer",
+    title: "Lorem Ipsum Sit Dolor Amet",
     companyName: "Starbucks",
     icon: starbucks,
     iconBg: "#383E56",
     date: "March 2020 - April 2021",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Elaborandum et conservandum applicationes interretiales utendo React.js et aliis technologiis pertinentibus.",
+"Collaborans cum turmis cross-functionalibus inter quos sunt designatores, producti gestores, et alii evolutores ad productos summae qualitatis creandos.",
+"Designem responsivum adhibens et compatibilitatem inter navigatores diversos certans.",
+"Participans in recensiones codicis et opiniones constructivas aliis evolutoribus praebens.",
+
     ],
   },
   {
-    title: "React Native Developer",
+    title: "Lorem Ipsum Sit Dolor Amet",
     companyName: "Tesla",
     icon: tesla,
     iconBg: "#E6DEDD",
     date: "Jan 2021 - Feb 2022",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Elaborandum et conservandum applicationes interretiales utendo React.js et aliis technologiis pertinentibus.",
+"Collaborans cum turmis cross-functionalibus inter quos sunt designatores, producti gestores, et alii evolutores ad productos summae qualitatis creandos.",
+"Designem responsivum adhibens et compatibilitatem inter navigatores diversos certans.",
+"Participans in recensiones codicis et opiniones constructivas aliis evolutoribus praebens.",
+
     ],
   },
   {
-    title: "Web Developer",
+    title: "Lorem Ipsum Sit Dolor Amet",
     companyName: "Shopify",
     icon: shopify,
     iconBg: "#383E56",
     date: "Jan 2022 - Jan 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+     "Elaborandum et conservandum applicationes interretiales utendo React.js et aliis technologiis pertinentibus.",
+"Collaborans cum turmis cross-functionalibus inter quos sunt designatores, producti gestores, et alii evolutores ad productos summae qualitatis creandos.",
+"Designem responsivum adhibens et compatibilitatem inter navigatores diversos certans.",
+"Participans in recensiones codicis et opiniones constructivas aliis evolutoribus praebens.",
+
     ],
   },
   {
-    title: "Full stack Developer",
+    title: "Lorem Ipsum Sit Dolor Amet",
     companyName: "Meta",
     icon: meta,
     iconBg: "#E6DEDD",
     date: "Jan 2023 - Present",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Elaborandum et conservandum applicationes interretiales utendo React.js et aliis technologiis pertinentibus.",
+"Collaborans cum turmis cross-functionalibus inter quos sunt designatores, producti gestores, et alii evolutores ad productos summae qualitatis creandos.",
+"Designem responsivum adhibens et compatibilitatem inter navigatores diversos certans.",
+"Participans in recensiones codicis et opiniones constructivas aliis evolutoribus praebens.",
+
     ],
   },
 ];
@@ -181,7 +185,7 @@ const experiences: TExperience[] = [
 const testimonials: TTestimonial[] = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     name: "Sara Lee",
     designation: "CFO",
     company: "Acme Co",
@@ -189,7 +193,7 @@ const testimonials: TTestimonial[] = [
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     name: "Chris Brown",
     designation: "COO",
     company: "DEF Corp",
@@ -197,7 +201,7 @@ const testimonials: TTestimonial[] = [
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+     "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     name: "Lisa Wang",
     designation: "CTO",
     company: "456 Enterprises",
@@ -209,7 +213,7 @@ const projects: TProject[] = [
   {
     name: "Car Rent",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     tags: [
       {
         name: "react",
@@ -230,7 +234,7 @@ const projects: TProject[] = [
   {
     name: "Job IT",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+     "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     tags: [
       {
         name: "react",
@@ -251,7 +255,7 @@ const projects: TProject[] = [
   {
     name: "Trip Guide",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+     "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     tags: [
       {
         name: "nextjs",
