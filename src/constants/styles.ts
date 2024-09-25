@@ -1,3 +1,5 @@
+import { logo } from "../assets";
+
 export const styles = {
   paddingX: "sm:px-16 px-6",
   paddingY: "sm:py-16 py-6",
@@ -13,3 +15,5 @@ export const styles = {
   sectionSubText:
     "sm:text-[18px] text-[14px] text-secondary uppercase tracking-wider",
 };
+
+ 
