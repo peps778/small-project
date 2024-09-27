@@ -125,58 +125,44 @@ const technologies: TTechnology[] = [
 
 const experiences: TExperience[] = [
   {
-    title: "Lorem Ipsum Sit Dolor Amet",
+    title: "CRM Specialist",
     companyName: "Starbucks",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "October 2024 - Present",
     points: [
-      "Elaborandum et conservandum applicationes interretiales utendo React.js et aliis technologiis pertinentibus.",
-"Collaborans cum turmis cross-functionalibus inter quos sunt designatores, producti gestores, et alii evolutores ad productos summae qualitatis creandos.",
-"Designem responsivum adhibens et compatibilitatem inter navigatores diversos certans.",
-"Participans in recensiones codicis et opiniones constructivas aliis evolutoribus praebens.",
+      "Developing and maintaining web applications using React.js and relevant technologies.",
+      "Collaborating with cross-functional teams, including designers, product managers, and other developers to create high-quality products.",
+      "Implementing responsive design and ensuring compatibility across various browsers.",
+      "Participating in code reviews and providing constructive feedback to fellow developers.",
 
     ],
   },
   {
-    title: "Lorem Ipsum Sit Dolor Amet",
-    companyName: "Tesla",
-    icon: tesla,
-    iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
-    points: [
-      "Elaborandum et conservandum applicationes interretiales utendo React.js et aliis technologiis pertinentibus.",
-"Collaborans cum turmis cross-functionalibus inter quos sunt designatores, producti gestores, et alii evolutores ad productos summae qualitatis creandos.",
-"Designem responsivum adhibens et compatibilitatem inter navigatores diversos certans.",
-"Participans in recensiones codicis et opiniones constructivas aliis evolutoribus praebens.",
-
-    ],
-  },
-  {
-    title: "Lorem Ipsum Sit Dolor Amet",
-    companyName: "Shopify",
-    icon: shopify,
+    title: "Web Developer",
+    companyName: "Starbucks",
+    icon: starbucks,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "July 2024 - October 2024",
     points: [
-     "Elaborandum et conservandum applicationes interretiales utendo React.js et aliis technologiis pertinentibus.",
-"Collaborans cum turmis cross-functionalibus inter quos sunt designatores, producti gestores, et alii evolutores ad productos summae qualitatis creandos.",
-"Designem responsivum adhibens et compatibilitatem inter navigatores diversos certans.",
-"Participans in recensiones codicis et opiniones constructivas aliis evolutoribus praebens.",
+      "Developing and maintaining web applications using React.js and relevant technologies.",
+      "Collaborating with cross-functional teams, including designers, product managers, and other developers to create high-quality products.",
+      "Implementing responsive design and ensuring compatibility across various browsers.",
+      "Participating in code reviews and providing constructive feedback to fellow developers.",
 
     ],
   },
   {
-    title: "Lorem Ipsum Sit Dolor Amet",
-    companyName: "Meta",
-    icon: meta,
-    iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    title: "Java Desktop App Freelancer",
+    companyName: "Freelance",
+    icon: starbucks,
+    iconBg: "#383E56",
+    date: "Send Me A Message",
     points: [
-      "Elaborandum et conservandum applicationes interretiales utendo React.js et aliis technologiis pertinentibus.",
-"Collaborans cum turmis cross-functionalibus inter quos sunt designatores, producti gestores, et alii evolutores ad productos summae qualitatis creandos.",
-"Designem responsivum adhibens et compatibilitatem inter navigatores diversos certans.",
-"Participans in recensiones codicis et opiniones constructivas aliis evolutoribus praebens.",
+      "Developing and maintaining desktop applications in Java, focusing on user-friendly interfaces and functionality.",
+      "Working with clients to understand their requirements and deliver tailored solutions.",
+      "Implementing best practices in software development and ensuring code quality.",
+      "Continuously learning and adapting to new technologies to improve service offerings.",
 
     ],
   },
@@ -185,28 +171,28 @@ const experiences: TExperience[] = [
 const testimonials: TTestimonial[] = [
   {
     testimonial:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+      "Working with Paul Jhon Magbanua at Sharpen Clicks has been an outstanding experience. His attention to detail and innovative thinking have significantly contributed to the success of our projects. I highly recommend his expertise for any tech-related needs.",
+    name: "Brandon Seay",
+    designation: "Founder",
+    company: "Sharpen Clicks",
+    image: "https://randomuser.me/api/portraits/men/1.jpg", 
   },
   {
     testimonial:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+      "Paul Jhon Magbanua is a remarkable talent. As the Co-Founder and CEO of JobNimbus, I can confidently say that his contributions have been vital in driving our technology forward. His ability to deliver high-quality results consistently sets him apart in the industry.",
+    name: "Ben Hodson",
+    designation: "Co-Founder & CEO",
+    company: "JobNimbus",
+    image: "https://randomuser.me/api/portraits/men/2.jpg", 
   },
   {
     testimonial:
-     "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
-  },
+      "I had the pleasure of collaborating with Paul Jhon Magbanua on a Java desktop application project. His technical expertise and dedication to excellence were evident throughout the development process, resulting in a high-quality application that exceeded client expectations.",
+    name: "Random Client",
+    designation: "Client",
+    company: "Freelance Project",
+    image: "https://randomuser.me/api/portraits/men/3.jpg", 
+  
 ];
 
 const projects: TProject[] = [

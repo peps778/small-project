@@ -67,7 +67,7 @@ export const config: TConfig = {
     about: {
       p: "Introduction",
       h2: "Overview.",
-      content: `Currently working as a Web Developer and CRM Specialist. I love to code and have a passion for creating web and desktop applications.`,
+      content: `Currently working as a Web Developer and CRM Specialist. I possess a diverse range of experience with a focus on Java development, complemented by my capabilities in web development and related services. I am passionate about delivering high-quality solutions tailored to meet your needs.`,
     },
     experience: {
       p: "What I have done so far",
