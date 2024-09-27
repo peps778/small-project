@@ -185,6 +185,7 @@ const testimonials: TTestimonial[] = [
     company: "JobNimbus",
     image: "https://randomuser.me/api/portraits/men/2.jpg", 
   },
+
   {
     testimonial:
       "I had the pleasure of collaborating with Paul Jhon Magbanua on a Java desktop application project. His technical expertise and dedication to excellence were evident throughout the development process, resulting in a high-quality application that exceeded client expectations.",
@@ -192,6 +193,7 @@ const testimonials: TTestimonial[] = [
     designation: "Client",
     company: "Freelance Project",
     image: "https://randomuser.me/api/portraits/men/3.jpg", 
+  }
   
 ];
 
