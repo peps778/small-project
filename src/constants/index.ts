@@ -24,10 +24,7 @@ import {
   git,
   figma,
   docker,
-  meta,
   starbucks,
-  tesla,
-  shopify,
   carrent,
   jobit,
   tripguide,
@@ -59,11 +56,11 @@ const services: TService[] = [
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "Java Freelancer",
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "CRM Specialist",
     icon: creator,
   },
 ];
@@ -199,25 +196,25 @@ const testimonials: TTestimonial[] = [
 
 const projects: TProject[] = [
   {
-    name: "Car Rent",
+    name: "School Payment System",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "Developed a user-friendly School Payment System utilizing Java Swing, enabling seamless management of student payments and financial records. This application features an intuitive interface for both administrators and parents, allowing for easy navigation through payment history, fee structures, and invoice generation. The system ensures secure transactions and reliable data management, streamlining the payment process for educational institutions.",
     tags: [
       {
-        name: "react",
+        name: "Java",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "Java Swing",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "SQLite",
         color: "pink-text-gradient",
       },
     ],
     image: carrent,
-    sourceCodeLink: "https://github.com/",
+    sourceCodeLink: "https://github.com/peps778",
   },
   {
     name: "Job IT",
