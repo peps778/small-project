@@ -1,6 +1,6 @@
 {
   "name": "threejs-3d-portfolio",
- "homepage": "https://peps778.github.io/small-project",
+ "homepage": "https://for-you.icu",
   "private": true,
   "version": "1.0.0",
   "type": "module",
@@ -11,7 +11,8 @@
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "ts:check": "tsc --noEmit",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
+
   },
   "dependencies": {
     "@emailjs/browser": "^3.12.1",
