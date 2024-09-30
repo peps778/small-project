@@ -17,18 +17,16 @@ import {
   html,
   css,
   reactjs,
-  redux,
   tailwind,
   nodejs,
   mongodb,
   git,
   figma,
-  docker,
-  starbucks,
   carrent,
   jobit,
   tripguide,
-  threejs,
+  nyx,
+  java,
 } from "../assets";
 
 export const navLinks: TNavLink[] = [
@@ -87,8 +85,8 @@ const technologies: TTechnology[] = [
     icon: reactjs,
   },
   {
-    name: "Redux Toolkit",
-    icon: redux,
+    name: "Java",
+    icon: java,
   },
   {
     name: "Tailwind CSS",
@@ -103,10 +101,6 @@ const technologies: TTechnology[] = [
     icon: mongodb,
   },
   {
-    name: "Three JS",
-    icon: threejs,
-  },
-  {
     name: "git",
     icon: git,
   },
@@ -114,17 +108,14 @@ const technologies: TTechnology[] = [
     name: "figma",
     icon: figma,
   },
-  {
-    name: "docker",
-    icon: docker,
-  },
+
 ];
 
 const experiences: TExperience[] = [
   {
     title: "CRM Specialist",
-    companyName: "Starbucks",
-    icon: starbucks,
+    companyName: "Nyx Virtual Solutions",
+    icon: nyx,
     iconBg: "#383E56",
     date: "October 2024 - Present",
     points: [
@@ -137,8 +128,8 @@ const experiences: TExperience[] = [
   },
   {
     title: "Web Developer",
-    companyName: "Starbucks",
-    icon: starbucks,
+    companyName: "Nyx Virtual Solutions",
+    icon: nyx,
     iconBg: "#383E56",
     date: "July 2024 - October 2024",
     points: [
@@ -152,7 +143,7 @@ const experiences: TExperience[] = [
   {
     title: "Java Desktop App Freelancer",
     companyName: "Freelance",
-    icon: starbucks,
+    icon: java,
     iconBg: "#383E56",
     date: "Send Me A Message",
     points: [
