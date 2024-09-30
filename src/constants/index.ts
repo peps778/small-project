@@ -22,9 +22,9 @@ import {
   mongodb,
   git,
   figma,
-  SPS,
-  jobit,
-  tripguide,
+  sps,
+  // jobit,
+  // tripguide,
   nyx,
   java,
 } from "../assets";
@@ -204,7 +204,7 @@ const projects: TProject[] = [
         color: "pink-text-gradient",
       },
     ],
-    image: SPS,
+    image: sps,
     sourceCodeLink: "https://github.com/peps778",
   },
   // {
