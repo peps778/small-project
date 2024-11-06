@@ -30,7 +30,7 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import nyx from "./company/nyx.png"  ;
 import java from "./tech/java.png"  ;
-import sps from "./sps.png";
+import spsImage from "./sps.png";
 
 
 export {
@@ -63,5 +63,5 @@ export {
   nyx,
   java,
   tripguide,
-  sps,
+  spsImage,
 };

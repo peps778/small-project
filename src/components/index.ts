@@ -30,4 +30,5 @@ export {
   BallCanvas,
   ComputersCanvas,
   StarsCanvas,
+  spsImage,
 };
