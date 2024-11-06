@@ -1,8 +1,12 @@
+import { defineConfig } from "vite"; // Import defineConfig function
+import react from "@vitejs/plugin-react"; // Import the react plugin
+
+// Export Vite config using defineConfig
 export default defineConfig({
   plugins: [react()],
-  base: "/small-project/", // Adjust this depending on your deployment
+  base: "/small-project/", // Adjust based on your deployment setup
   chunkSizeWarningLimit: 2000,
   build: {
-    outDir: 'dist', // Make sure Vite outputs to dist
+    outDir: 'dist', // Ensure output is directed to 'dist' folder
   },
 });
