@@ -14,7 +14,8 @@ import Works from "./sections/Works";
 import Feedbacks from "./sections/Feedbacks";
 import Contact from "./sections/Contact";
 import CanvasLoader from "./layout/Loader";
-import spsImage from "./sps.png";
+
+
 
 export {
   Hero,
@@ -30,5 +31,4 @@ export {
   BallCanvas,
   ComputersCanvas,
   StarsCanvas,
-  spsImage,
 };

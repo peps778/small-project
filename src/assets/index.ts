@@ -30,7 +30,8 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import nyx from "./company/nyx.png"  ;
 import java from "./tech/java.png"  ;
-import spsImage from "./tech/sps.png";
+import spsImage from './sps.png'; 
+
 
 
 export {
